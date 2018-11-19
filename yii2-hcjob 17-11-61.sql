@@ -87,9 +87,9 @@ CREATE TABLE `assign` (
 --
 
 INSERT INTO `assign` (`id`, `assign_name`, `color`, `line_token`, `email`, `tel`) VALUES
-(1, 'อาคารสถานที่', '#0000ff', 'iC31I8J4505gdj1wo59jIYb6ZdSbEIQUkFvoxmuKrDa', 'building@hicretethai.com', '2800'),
-(2, 'ไอที', '#ff9900', 'aMjSV5qc4J8YKJcif3hghZm76xYsfNEnnx6EiK3rtSw', 'icthc@hicretethai.com', '2100'),
-(3, 'ไฟฟ้า', '#cc0000', 'vHuiMM8GGm8kHxSibVExhy2ZcMvsMkgdLUgwtzQisuc', 'electrical@hicretethai.com', '5100'),
+(1, 'อาคารสถานที่', '#0000ff', '', 'building@hicretethai.com', '2800'),
+(2, 'ไอที', '#ff9900', '', 'icthc@hicretethai.com', '2100'),
+(3, 'ไฟฟ้า', '#cc0000', '', 'electrical@hicretethai.com', '5100'),
 (4, 'เครื่องกล', '#9900ff', '', '', ''),
 (5, 'จัดการบ้านพัก', '#3c78d8', '', '', '');
 
